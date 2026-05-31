@@ -25,4 +25,4 @@ Iris dataset with sepal and petal dimensions.
 - Model achieves high accuracy on dataset
 
 ## Author
-Sk Mohiddin
+Shaik Mohiddin
